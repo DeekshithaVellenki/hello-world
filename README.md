@@ -1,3 +1,4 @@
 Hello World
 Git is just an amazing tool 
-Its intresting to learn about GIT.
+It's intresting to learn about GIT.
+version control system.
